@@ -1,24 +1,4 @@
-<p align="center">
-  <img src="./logo/Guidlpass%20SDK%20Logo.png" alt="LumenPass SDK Logo" width="220" />
-</p>
 
-<h1 align="center">LumenPass SDK</h1>
-
-<p align="center">
-  <strong>The official TypeScript SDK for building applications on top of LumenPass.</strong>
-</p>
-
-<p align="center">
-  A modern, Stellar-first developer interface for programmable community membership, access control, and guild management.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-24+-339933?logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Stellar-Ready-7C3AED" alt="Stellar" />
-  <img src="https://img.shields.io/badge/Package-@lumenpass%2Fsdk-6F42C1" alt="@lumenpass/sdk" />
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License" />
-</p>
 
 ---
 
